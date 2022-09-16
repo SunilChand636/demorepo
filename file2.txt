@@ -1,0 +1,15 @@
+Hi i am sunil:
+[A[A[B[BXX
+
+
+
+
+
+
+
+[A[A[C[C[C[C[C[C[C[C[C[C[C[A[B[B[A git status
+
+
+::wq
+:!q
+halt
